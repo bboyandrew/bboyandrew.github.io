@@ -1,2 +1,4 @@
 dist/
+archive/
+variants/
 __pycache__/
